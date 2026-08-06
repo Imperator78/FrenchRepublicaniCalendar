@@ -10,12 +10,12 @@ Each day will display the current date according to the French Republican calend
 ## Loading the calendar
 ### Outlook
 Download the .ics files for the year(s) of your choosing:
-- 2022: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012022-31122022.ics)
-- 2023: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012023-31122023.ics)
-- 2024: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012024-31122024.ics)
-- 2025: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012025-31122025.ics)
-- 2026: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012026-31122026.ics)
-- 2027: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012027-31122027.ics)
+- 2022: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics)
+- 2023: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics)
+- 2024: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics)
+- 2025: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics)
+- 2026: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics)
+- 2027: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics)
 
 Go to File->Open & Export->Open Calendar and choose the downloaded .ics file. 
 
@@ -29,13 +29,13 @@ Also note that Outlook displays an error while importing, but it doesn't seem to
 
 ### Google Calendar
 Next to "Other calendars" click the + button and choose "From URL". Enter any of the following URLs and click "Add calendar":
-- 2022: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`
-- 2023: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`
-- 2024: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`
-- 2025: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`
-- 2026: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`
-- 2027: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`
-- 2026-2030 subscription: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/addedYears/FrenchRepublicanCalnedar_01012026-31122030.ics`
+- 2022: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`
+- 2023: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`
+- 2024: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`
+- 2025: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`
+- 2026: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`
+- 2027: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`
+- 2026-2030 subscription: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122030.ics`
 
 If you want one Google Calendar subscription that keeps rolling through the next few years, use the 2026-2030 URL above.
 
